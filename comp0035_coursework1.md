@@ -60,6 +60,24 @@ Issues blocking my progress (state ‘None’ if there are no issues):
 - item
 
 ### Report 1
+What I did in the last week:
+- Looked at data set chosen for coursework
+
+- Analysed different process models for coursework
+
+What I plan to do in the next week:
+- Make a concrete decision on which process model to continue with
+
+- Begin filling out coursework template
+- Draft a problem statement
+- Prepare questions to potentially answer from the data set
+
+- Understand and ask more questions about what needs to be done
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+- Not too sure of how to justify choosing one process model over another. 
+  - Need to clarify how to decide between two very similar process models
+- Need to ensure that repository has been correctly cloned
 
 ### Report 2
 
